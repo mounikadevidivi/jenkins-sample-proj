@@ -1,4 +1,1 @@
 this is dev.txt file
-edited
-added
-dev
